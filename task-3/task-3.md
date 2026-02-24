@@ -18,4 +18,5 @@
 
 Подробно описано на схеме
 
+## Архитектурная схема PUSH-уведомлений
 ![Push Architecture](../images/push-architecture.png)
