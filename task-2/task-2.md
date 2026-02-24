@@ -1,9 +1,9 @@
 # Задание 2: Проектирование API
 
-## 1)	Запрос GET
+### 1)	Запрос GET
 GET https://api.petrushka-green.ru/api/v1/partners
 
-## 2)	Пример ответа REST API
+### 2)	Пример ответа REST API
 
 {
 	"status": "success",
