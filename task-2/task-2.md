@@ -60,3 +60,4 @@ GET https://api.petrushka-green.ru/api/v1/partners
 	"message": "Список партнеров временно недоступен"
 }
 ```
+```markdown
