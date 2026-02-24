@@ -5,6 +5,7 @@ GET https://api.petrushka-green.ru/api/v1/partners
 
 ### 2)	Пример ответа REST API
 
+```json
 {
 	"status": "success",
 	"partners": [
@@ -50,12 +51,12 @@ GET https://api.petrushka-green.ru/api/v1/partners
 		}
 	]
 }
-
+```
 Если сервер не сможет вернуть список партнеров, то лучше всего добавить обработку оши-бок:
-
+```json
 {
 	"status": "error",
 	"error_code": "PARTNERS_NOT_FOUND",
 	"message": "Список партнеров временно недоступен"
 }
-
+```
