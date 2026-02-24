@@ -18,3 +18,4 @@
 
 Подробно описано на схеме
 
+![Push Architecture](../images/push-architecture.png)
